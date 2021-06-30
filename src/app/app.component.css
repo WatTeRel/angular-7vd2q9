@@ -1,0 +1,40 @@
+::ng-deep .ant-tabs-bar {
+  margin-bottom: 0px;
+  border: none;
+}
+
+::ng-deep .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 14px;
+  margin-right: 5px;
+  opacity: 1;
+  border-radius: 6px 6px 0px 0px;
+  /* width: 56px; */
+  color: #00A2FF;
+  height: 24px;
+  font-size: 14px;
+  background: none;
+  border: 1px solid #00A2FF;
+  font-family: SourceHanSansCN-Regular;
+}
+
+::ng-deep .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab-active {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 14px;
+  margin-right: 5px;
+  opacity: 1;
+  border-radius: 6px 6px 0px 0px;
+  /* width: 56px; */
+  color: white;
+  background-color: #00A2FF;
+  height: 24px;
+  font-size: 14px;
+  border: 1px solid #00A2FF;
+  font-family: SourceHanSansCN-Regular;
+}
+
+::ng-deep .ant-tabs-nav-scroll {
+  padding-top: 15px;
+}
